@@ -1,0 +1,4 @@
+User Message:8/9/2024 9:04:29 AM	Mở cập nhật câu hỏi.....
+Error Time:8/9/2024 9:42:53 AM	Error Message:(The requested member of the collection does not exist..
+	Error Stack trace:   at TestQuestionBank.WindowsManager.WordProcessing.WordHelper.GetDataFromWordDocumentV2(ApplicationClass app, Document document, String appStoreFolder, IntPtr hWndNewOwner, Guid maPhan, CapDoCauHoi capDo) in D:\UEF\ExamSuite.UEF\QuestionBank\QuestionBank\QuestionBank.ImportMananger\Components\WordProcessing\WordHelper.1.cs:line 587
+   at TestQuestionBank.WindowsManager.ImportToBank.frmImportQuestionFromWordWithCheck.progressWorker2_DoWork(Object sender, DoWorkEventArgs e) in D:\UEF\ExamSuite.UEF\QuestionBank\QuestionBank\QuestionBank.ImportMananger\Forms\ImportToBank\frmImportQuestionFromWordWithCheck.cs:line 647.
